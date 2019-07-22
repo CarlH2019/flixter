@@ -10,8 +10,8 @@
       }
     });
   });
-  $(function1() {
-    $('.sections').sortable({update: function1( event, ui ) {
+  $(function() {
+    $('.sections').sortable({update: function( event, ui ) {
         $.ajax({
           type: 'PUT',
           url: ui.item.data('update-url'),
