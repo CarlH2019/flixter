@@ -11,10 +11,10 @@
     <%= image_tag course.image.url, class: "mx-auto d-block img-fluid" %>
     <br />
   <div class="row">
-  <div class="col-sm-8 col-12">
+  <div class="col-12 text-center">
       <%= course.description %>
     </div>
-    <div class="col-sm-4 col-12 text-center">
+    <div class="col-sm-11 col-12 text-right">
       <%= link_to 'More Details...', course_path(course), class: 'btn btn-primary btn-large' %>
     </div>
   </div>
