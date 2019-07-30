@@ -90,12 +90,17 @@ body {
   height: 130px;
   }
 
+  .lesson-header {
+    margin-top: 10px;
+}
+
 
 .section {
   border: 1px solid;
   border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
   margin-top: -5px;
   padding: 40px;
+  position: relative;
   }
 
 .lesson a {
@@ -143,4 +148,10 @@ ul .header .fa {
 .lessons li b {
   font-size: 25px;
   font-weight: 100;
+}
+
+.video-title {
+  position: absolute;
+    top: 0;
+    left: 0;
 }
