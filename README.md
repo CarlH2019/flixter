@@ -12,5 +12,5 @@ advanced database relationships
 
 
 
-Created with Ruby on Rails
+Created with Ruby on Rails by
 Carl Hofstrom hofstromcarl@gmail.com
