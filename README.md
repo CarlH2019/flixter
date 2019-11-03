@@ -1,24 +1,16 @@
-# README
+![](Images/Flixter2.PNG)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Teach your own course with this application! 
 
-Things you may want to cover:
+Once you create your course, you can drag and drop your lessons accordingly and keep track of the courses you are teaching and learning in your own private dashboard. At this time it does not include the ability to edit lessons and sections, but here are the features included in this application which I now have a good grasp on:
 
-* Ruby version
+two-sided video-streaming marketplace,
+credit card payment capabilities,
+user role management,
+UI and UX, 
+advanced database relationships
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Created with Ruby on Rails by
+Carl Hofstrom hofstromcarl@gmail.com
