@@ -1,4 +1,4 @@
-![](Images/Flixter2.PNG)
+![](Images/Homepage.PNG)
 
 Teach your own course with this application! 
 
