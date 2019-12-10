@@ -41,4 +41,6 @@ Ruby on Rails, Figaro, Stripe, Bootstrap, Simpleform, subtlepatterns.com, Carrie
 
 Created with Ruby on Rails by
 Carl Hofstrom hofstromcarl@gmail.com
+
+
 https://flixter-carl-hofstrom.herokuapp.com
