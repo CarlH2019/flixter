@@ -13,18 +13,29 @@ How to use:
 6) Click Next Lesson..
 7) Click My Dashboard
 ![](Images/My%20Dashboard.PNG)
-8) Click 'Teach a Course' at the bottom left
+8) Click 'Teach a Course' at the bottom left and enter data in the appropriate fields
+![](Images/Addcourse.PNG)
+9) Click 'Add a section'
+10) Click 'Add a lesson' (use mp4 videos)
+![](Images/Lesson.PNG)
+11) Click 'Administrator' (here you can 'view as a student' and if you repeat step 10 again, you can drag and drop lessons accordingly)
+![](Images/Administrator.PNG)
+12) Click 'Flixter' in upper left corner to go back to homepage
+13) Click 'See all courses' to see your new course
+14) Click 'Sign Out' in upper right
 
 
-Once you create your course, you can drag and drop your lessons accordingly and keep track of the courses you are teaching and learning in your own private dashboard. At this time it does not include the ability to edit lessons and sections, but here are the features included in this application which I now have a good grasp on:
+At this time it does not include the ability to edit lessons and sections, but here are the features included in this application which I now have a good grasp on:
 
 two-sided video-streaming marketplace,
 credit card payment capabilities,
 user role management,
 UI and UX, 
 advanced database relationships
+validations and permissions 
 
-
+Technologies Used:
+Ruby on Rails, Figaro, Stripe, Bootstrap, Simpleform, subtlepatterns.com, Carrierwave, Javascript for drag & drop
 
 Created with Ruby on Rails by
 Carl Hofstrom hofstromcarl@gmail.com
