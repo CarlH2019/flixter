@@ -4,8 +4,8 @@ Teach your own course with this application!
 
 How to use:
 1) https://flixter-carl-hofstrom.herokuapp.com
-2) Click 'Learn More' then 'More Details..'    (This will give a basic overview)
-3) Sign up  (this will automatically sign you in)
+2) Click 'Learn More' then 'More Details..'    (gives a basic overview)
+3) Sign up  (automatically signs you in)
 ![](Images/Sign%20Up.PNG)
 4) Click 'Pay with Card' to enroll (Use CC# 4242-4242-4242-4242 and make up a current expiration and any three digit CVC)
 ![](Images/Enroll.PNG)
